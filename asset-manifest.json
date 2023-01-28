@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio-jan-2023/static/css/main.16cb8878.css",
-    "main.js": "/portfolio-jan-2023/static/js/main.23b94c6b.js",
+    "main.css": "/portfolio-jan-2023/static/css/main.f5746fbb.css",
+    "main.js": "/portfolio-jan-2023/static/js/main.d63d3181.js",
     "static/js/787.5a19cfdf.chunk.js": "/portfolio-jan-2023/static/js/787.5a19cfdf.chunk.js",
     "static/media/entertainment.png": "/portfolio-jan-2023/static/media/entertainment.dae77cfeb634caa286b5.png",
     "static/media/photosnap.png": "/portfolio-jan-2023/static/media/photosnap.69471b253a137a1d5ac6.png",
     "static/media/iphone-in-portrait-position-and-macbook-pro-over-a-flat-background-mockup-a12314-2.png": "/portfolio-jan-2023/static/media/iphone-in-portrait-position-and-macbook-pro-over-a-flat-background-mockup-a12314-2.cf5a035fa45f24a74364.png",
     "static/media/invoice-app.png": "/portfolio-jan-2023/static/media/invoice-app.1a262ad9cb34bc03ea6a.png",
     "static/media/design-man.jpg": "/portfolio-jan-2023/static/media/design-man.0a4893421f4eb80a395c.jpg",
-    "static/media/gradient-dots.svg": "/portfolio-jan-2023/static/media/gradient-dots.eea78127b40c3364aad5d1a4d0224ed7.svg",
+    "static/media/gradient-dots.svg": "/portfolio-jan-2023/static/media/gradient-dots.50b25491fd6edef32a69069096a0ef49.svg",
     "index.html": "/portfolio-jan-2023/index.html",
-    "main.16cb8878.css.map": "/portfolio-jan-2023/static/css/main.16cb8878.css.map",
-    "main.23b94c6b.js.map": "/portfolio-jan-2023/static/js/main.23b94c6b.js.map",
+    "main.f5746fbb.css.map": "/portfolio-jan-2023/static/css/main.f5746fbb.css.map",
+    "main.d63d3181.js.map": "/portfolio-jan-2023/static/js/main.d63d3181.js.map",
     "787.5a19cfdf.chunk.js.map": "/portfolio-jan-2023/static/js/787.5a19cfdf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16cb8878.css",
-    "static/js/main.23b94c6b.js"
+    "static/css/main.f5746fbb.css",
+    "static/js/main.d63d3181.js"
   ]
 }
