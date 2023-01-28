@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-jan-2023/static/css/main.d6d8c0c2.css",
-    "main.js": "/portfolio-jan-2023/static/js/main.36bfd34d.js",
+    "main.css": "/portfolio-jan-2023/static/css/main.1b7a9115.css",
+    "main.js": "/portfolio-jan-2023/static/js/main.d648eba2.js",
     "static/js/787.5a19cfdf.chunk.js": "/portfolio-jan-2023/static/js/787.5a19cfdf.chunk.js",
     "static/media/entertainment.png": "/portfolio-jan-2023/static/media/entertainment.dae77cfeb634caa286b5.png",
     "static/media/photosnap.png": "/portfolio-jan-2023/static/media/photosnap.69471b253a137a1d5ac6.png",
@@ -10,12 +10,12 @@
     "static/media/design-man.jpg": "/portfolio-jan-2023/static/media/design-man.0a4893421f4eb80a395c.jpg",
     "static/media/gradient-dots.svg": "/portfolio-jan-2023/static/media/gradient-dots.01f7b94ebc9a91ee7b3a2ddb364efe23.svg",
     "index.html": "/portfolio-jan-2023/index.html",
-    "main.d6d8c0c2.css.map": "/portfolio-jan-2023/static/css/main.d6d8c0c2.css.map",
-    "main.36bfd34d.js.map": "/portfolio-jan-2023/static/js/main.36bfd34d.js.map",
+    "main.1b7a9115.css.map": "/portfolio-jan-2023/static/css/main.1b7a9115.css.map",
+    "main.d648eba2.js.map": "/portfolio-jan-2023/static/js/main.d648eba2.js.map",
     "787.5a19cfdf.chunk.js.map": "/portfolio-jan-2023/static/js/787.5a19cfdf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6d8c0c2.css",
-    "static/js/main.36bfd34d.js"
+    "static/css/main.1b7a9115.css",
+    "static/js/main.d648eba2.js"
   ]
 }
